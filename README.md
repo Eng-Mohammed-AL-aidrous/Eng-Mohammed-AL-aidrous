@@ -26,8 +26,8 @@
       <img src="https://img.shields.io/badge/GitHub-Eng--Mohammed--AL--aidrous-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/eng-mohammed-alaidrous" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Mohammed_Al--Aidrous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 </div>
