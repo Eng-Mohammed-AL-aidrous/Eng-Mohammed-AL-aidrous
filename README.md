@@ -45,6 +45,30 @@
 
 ---
 
+### 🚀 Featured Projects / أبرز المشاريع
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="100%">
+        <h3><a href="https://github.com/Eng-Mohammed-AL-aidrous/scientific-article-classification-distilbert">🔬 Multi-Class Scientific Article Classification using DistilBERT</a></h3>
+        <p>
+          End-to-end NLP pipeline classifying 214,000+ scientific publications into <strong>Health</strong>, <strong>Technology</strong>, and <strong>Environment</strong> with <strong>90%+ accuracy</strong>. Solves the 512-token limit of Transformer architectures using custom <em>Sliding-Window Chunking with Overlap</em>, coupled with an interactive <strong>Gradio Web App</strong> for real-time inference.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+          <img src="https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=flat-square" alt="Transformers" />
+          <img src="https://img.shields.io/badge/DistilBERT-Fine--Tuned-00B4D8?style=flat-square" alt="DistilBERT" />
+          <img src="https://img.shields.io/badge/Gradio-Web_UI-FF7C00?style=flat-square&logo=gradio&logoColor=white" alt="Gradio" />
+          <img src="https://img.shields.io/badge/Accuracy-90%25%2B-brightgreen?style=flat-square" alt="Accuracy" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Skills / التقنيات والمهارات
 
 <div align="center">
