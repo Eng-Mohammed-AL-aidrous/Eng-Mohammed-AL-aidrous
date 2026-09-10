@@ -64,6 +64,21 @@
         </p>
       </td>
     </tr>
+    <tr>
+      <td width="100%">
+        <h3><a href="https://github.com/Eng-Mohammed-AL-aidrous/mkhedruli-historical-ocr-yolov8">🇬🇪 Mkhedruli OCR V2: Historical Script Recognition via YOLOv8 & Flutter</a></h3>
+        <p>
+          Computer Vision & Offline Edge-AI pipeline for recognizing the 33 characters of ancient Georgian Mkhedruli script. Combines a <em>Two-Stage YOLOv8 training architecture</em> (5,000 synthetic manuscripts with Alpha-Channel tight bbox extraction + real historical manuscript fine-tuning) with an offline <strong>Flutter mobile application</strong> running <strong>TensorFlow Lite (TFLite)</strong> directly on smartphones.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Flutter-Mobile_App-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+          <img src="https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLOv8" />
+          <img src="https://img.shields.io/badge/TensorFlow_Lite-Edge_AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TFLite" />
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+          <img src="https://img.shields.io/badge/Offline-On--Device-success?style=flat-square" alt="Offline" />
+        </p>
+      </td>
+    </tr>
   </table>
 </div>
 
