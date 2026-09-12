@@ -79,6 +79,20 @@
         </p>
       </td>
     </tr>
+    <tr>
+      <td width="100%">
+        <h3><a href="https://github.com/Eng-Mohammed-AL-aidrous/arabic-compiler-suite">⚙️ ArabicCompiler 2026: Arabic Programming Language Suite</a></h3>
+        <p>
+          A complete, end-to-end Arabic programming language compiler and IDE built from scratch following strict software engineering principles. The architecture features a pure C11 Compiler Engine powered by <strong>Flex/Bison</strong> for LALR(1) parsing, communicating via IPC with a modern <strong>C# .NET 6 WPF</strong> visual editor. Supports RTL, live syntax highlighting, full precedence rules, and produces native executables via GCC.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Compiler-C11-00599C?style=flat-square&logo=c" alt="C11" />
+          <img src="https://img.shields.io/badge/Parser-Flex%20%7C%20Bison-FF4F8B?style=flat-square" alt="Flex/Bison" />
+          <img src="https://img.shields.io/badge/Editor-C%23%20WPF%20.NET%206-512BD4?style=flat-square&logo=c-sharp" alt="C# WPF" />
+          <img src="https://img.shields.io/badge/Architecture-IPC_JSON-success?style=flat-square" alt="Architecture" />
+        </p>
+      </td>
+    </tr>
   </table>
 </div>
 
