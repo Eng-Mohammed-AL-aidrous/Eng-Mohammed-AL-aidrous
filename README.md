@@ -93,6 +93,21 @@
         </p>
       </td>
     </tr>
+    <tr>
+      <td width="100%">
+        <h3><a href="https://github.com/Eng-Mohammed-AL-aidrous/ChatChat">💬 ChatChat: Real-Time Desktop Communication & Media Streaming Suite</a></h3>
+        <p>
+          Enterprise-grade desktop collaboration platform combining confirmed TCP messaging with ultra-low latency UDP audio/video calling and smooth screen sharing (up to 720p @ 20 FPS with adaptive JPEG compression). Built with <strong>C# .NET 6 WPF</strong>, custom 24-byte packet header signaling, PBKDF2/DPAPI security, and a real-time <strong>Server Dashboard</strong> with live network topology mapping.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/.NET_6-WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 6" />
+          <img src="https://img.shields.io/badge/C%23-10.0-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+          <img src="https://img.shields.io/badge/Streaming-Custom_TCP_%2B_UDP-F59E0B?style=flat-square" alt="TCP+UDP" />
+          <img src="https://img.shields.io/badge/Security-PBKDF2_%2B_DPAPI-10B981?style=flat-square" alt="Security" />
+          <img src="https://img.shields.io/badge/Status-Complete-success?style=flat-square" alt="Status" />
+        </p>
+      </td>
+    </tr>
   </table>
 </div>
 
